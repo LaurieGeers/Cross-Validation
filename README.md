@@ -38,4 +38,4 @@ Before running the script, make sure to specify:
 
 📖 References
 
-Mathôt, S., & Vilotijević, A. (2022). Cross-validation for time-series data in experimental psychology. Behavior Research Methods, 54, 1–15. https://doi.org/10.3758/s13428-021-01684-0
+Mathôt, S., & Vilotijević, A. (2023). Methods in cognitive pupillometry: Design, preprocessing, and statistical analysis. Behavior research methods, 55(6), 3055-3077.
