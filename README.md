@@ -1,4 +1,5 @@
-Author: L. Geers Date: December 2024
+Author: L. Geers 
+Date: December 2024
 
 This script locates and statistically tests the effect of one fixed effect in time-series data using a cross-validation procedure combined with linear mixed-effects models (LMMs). 
 The method ensures that statistical tests are conducted on time points identified in an unbiased way, reducing the risk of overfitting and capitalizing on the robustness of mixed-effects modeling.
