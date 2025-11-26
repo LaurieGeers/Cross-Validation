@@ -1,4 +1,5 @@
 Author: L. Geers 
+
 Date: December 2024
 
 This script locates and statistically tests the effect of one fixed effect in time-series data using a cross-validation procedure combined with linear mixed-effects models (LMMs). 
@@ -27,7 +28,7 @@ The script assumes a trial-based dataset with the following columns:
 - Trial number named "trial"
 - Fixed effect named as desired but specified in "Parameters" section
 - Dependent variable named as desired but specified in "Parameters" section
-- 
+
 🔧 Parameters
 
 Before running the script, make sure to specify:
@@ -36,4 +37,5 @@ Before running the script, make sure to specify:
 - Number of samples → total samples per trial.
 
 📖 References
+
 Mathôt, S., & Vilotijević, A. (2022). Cross-validation for time-series data in experimental psychology. Behavior Research Methods, 54, 1–15. https://doi.org/10.3758/s13428-021-01684-0
